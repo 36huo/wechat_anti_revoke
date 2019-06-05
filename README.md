@@ -5,6 +5,17 @@ patch wechat(for pc) to anti revoke message
 [微信pc版官方下载地址](https://pc.weixin.qq.com/)  
 [思路来源](https://www.v2ex.com/t/525542)  
 
+## 微信 2.6.8.51
+材料：
+WeChatWin.dll 版本:2.6.8.51 大小: 21553400 字节  SHA1: D0A5517B1292A751501B00B4B1F0702DB2D9FC30
+
+步骤：
+十六进制编辑器（ winhex、010editor 等）修改 00256C86 75->74
+
+产出：
+WeChatWin.dll 版本:2.6.8.51 大小: 21553400 字节 SHA1: 53E7B1525D49BF2C3250A8131FF0BA2510779B78
+
+
 ## 微信 2.6.8.37
 材料：
 WeChatWin.dll 版本:2.6.8.37 大小: 21593336 字节 SHA1: 7E01F8B04A158A4A50BC5A6E67C2FB8B02233170
