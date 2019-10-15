@@ -22,7 +22,7 @@ WeChatWin.dll 版本:2.7.1.65 大小: 22887272 字节 SHA1: 7F8E0E6BA19D330E63B5
 WeChatWin.dll 版本:2.6.8.68 大小: 21611768 字节 SHA1: 699602EE3CBB9AE5714F6E6EBC658C875A6C66E6
 
 步骤：
-十六进制编辑器（ winhex、010editor 等）修改 此文件地址 0x002571F6    0x75 -> 0x74
+十六进制编辑器（ winhex、010editor 等）修改 此文件地址 0x002571F5    0x75 -> 0x74
 
 产出：
 WeChatWin.dll 版本:2.6.8.68 大小: 21611768 字节 SHA1: 2E9417F4276B12FE32CA7B4FEE49272A4A2AF334
